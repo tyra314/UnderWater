@@ -1,0 +1,16 @@
+[
+{
+  "modid": "UnderWater",
+  "name": "Under Water",
+  "description": "A tiny mod for Minecraft, which prohibits placing of blocks under water.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/tyra314/UnderWater",
+  "updateUrl": "",
+  "authorList": ["tyra314"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
