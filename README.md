@@ -19,3 +19,10 @@ blocks under water, if he has the water breathing potion effect.
 
 Minecraft: 1.7.10
 Forge: 1448
+
+# License
+
+GNU General Public License v3.0
+
+This mean, you can use this mod in any pack, without asking for permission.
+However, a heads up would be welcome :)
